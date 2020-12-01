@@ -1,4 +1,11 @@
-### Hi there 👋
+
+<h2 align="center"> Hi there 👋</h2>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=blackcrystal026&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+</p>
 
 <!--
 **blackcrystal026/blackcrystal026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
